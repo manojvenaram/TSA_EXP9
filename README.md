@@ -1,8 +1,8 @@
-# EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
+ # A project on Time series analysis on weather forecasting using ARIMA model 
 ### Date: 12-04-2024
 
 ### AIM:
-To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python and compare with other models.
+To Create a project on Time series analysis on weather forecasting using ARIMA model in  Python .
 ### ALGORITHM:
 1. Explore the dataset of weather 
 2. Check for stationarity of time series time series plot
@@ -67,6 +67,3 @@ arima_model(data, 'temp_max', order=(5,1,0))
 ### OUTPUT:
 ![image](https://github.com/manojvenaram/TSA_EXP9/assets/94165064/1a62e960-f6ba-4c61-a8eb-c4482f3bba11)
 
-
-### RESULT:
-Thus the program run successfully based on the ARIMA model using python.
